@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import classnames from 'classnames';
 
 export default function NavLinks({ className }) {
-	const links = [{ text: 'About Us', href: '/about' }];
+	const links = [{ text: 'Sobre nós', href: '/about' }];
 
 	return (
 		<ul className={classnames('list-reset', className)}>
