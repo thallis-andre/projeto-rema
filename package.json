@@ -2,7 +2,7 @@
   "name": "rema",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thallis-andre.github.io/",
+  "homepage": "https://thallis-andre.github.io/holly-react",
   "scripts": {
     "build-css": "node-sass-chokidar src/assets/css/scss/style.scss -o src/assets/css",
     "build-js": "react-scripts build",
@@ -10,7 +10,7 @@
     "deploy": "npm run build && gh-pages -d build",
     "start-js": "react-scripts start",
     "start": "npm-run-all -p watch-css start-js",
-    "watch-css": "npm run build-css && node-sass-chokidar src/assets/css/scss -o src/assets/css --watch --recursive",
+    "watch-css": "npm run build-css && node-sass-chokidar src/assets/css/scss -o src/assets/css --watch --recursive"
   },
   "eslintConfig": {
     "extends": [
