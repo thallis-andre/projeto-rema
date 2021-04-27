@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projeto-rema/static/css/main.b40b350c.chunk.css",
+    "main.js": "/projeto-rema/static/js/main.ca03b53e.chunk.js",
+    "main.js.map": "/projeto-rema/static/js/main.ca03b53e.chunk.js.map",
+    "runtime-main.js": "/projeto-rema/static/js/runtime-main.9b8df088.js",
+    "runtime-main.js.map": "/projeto-rema/static/js/runtime-main.9b8df088.js.map",
+    "static/css/2.e08bbbe2.chunk.css": "/projeto-rema/static/css/2.e08bbbe2.chunk.css",
+    "static/js/2.29462b55.chunk.js": "/projeto-rema/static/js/2.29462b55.chunk.js",
+    "static/js/2.29462b55.chunk.js.map": "/projeto-rema/static/js/2.29462b55.chunk.js.map",
+    "index.html": "/projeto-rema/index.html",
+    "static/css/2.e08bbbe2.chunk.css.map": "/projeto-rema/static/css/2.e08bbbe2.chunk.css.map",
+    "static/css/main.b40b350c.chunk.css.map": "/projeto-rema/static/css/main.b40b350c.chunk.css.map",
+    "static/js/2.29462b55.chunk.js.LICENSE.txt": "/projeto-rema/static/js/2.29462b55.chunk.js.LICENSE.txt",
+    "static/media/Imagem-projeto.e1b7ae68.svg": "/projeto-rema/static/media/Imagem-projeto.e1b7ae68.svg",
+    "static/media/estrutura.d3570956.png": "/projeto-rema/static/media/estrutura.d3570956.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8df088.js",
+    "static/css/2.e08bbbe2.chunk.css",
+    "static/js/2.29462b55.chunk.js",
+    "static/css/main.b40b350c.chunk.css",
+    "static/js/main.ca03b53e.chunk.js"
+  ]
+}
