@@ -9,7 +9,7 @@ export default function Footer() {
 				<div className="site-footer-inner">
 					<NavLinks className="footer-links" />
 					<div className="footer-copyright">
-						&copy; 2018 Holly, all rights reserved
+						&copy; Thallis André, Ian Chaves e Amanda Miranda
 					</div>
 				</div>
 			</div>

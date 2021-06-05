@@ -2,7 +2,7 @@
   "name": "rema",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thallis-andre.github.io/holly-react",
+  "homepage": "https://thallis-andre.github.io/projeto-rema",
   "scripts": {
     "build-css": "node-sass-chokidar src/assets/css/scss/style.scss -o src/assets/css",
     "build-js": "react-scripts build",
